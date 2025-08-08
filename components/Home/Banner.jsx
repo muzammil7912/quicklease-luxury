@@ -12,7 +12,7 @@ const Banner = () => {
   // {main[language]["sayHello"]}
   return (
     <>
-      {/* <SplashCursor className='hidden' /> */}
+      <SplashCursor className='hidden' />
       <div className={`relative h-screen max-[1024px]:h-[60vh] max-[1024px]:mb-[7rem] banner_${language}`}>
         <Image src={back} alt='back' className='absolute inset-0 w-full h-full object-cover ' />
         <div className='absolute inset-0 bg-gradient-to-r from-black to-transparent '></div>

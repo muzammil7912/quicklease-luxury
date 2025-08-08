@@ -1,6 +1,6 @@
 export const i18n = {
     defaultLocale: "",
-    locales: ["en", "ar", "ru", "ch"],
+    locales: ["en", "ar", "ch", "ru"],
     prefixDefault: false, // Ensure this is intentionally set
 };
 

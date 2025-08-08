@@ -30,7 +30,8 @@ export const main = {
         rangeRoverVogue: "Range Rover Vogue 2025",
         bentleyBentayga: "Bentley Bentayga S V8",
         // new
-        lamboEvo: "Lamborghini EVO Spyder White & Blue 2023",
+        lamboEvo: "Lamborghini EVO Spyder Blue 2023",
+        lamboEvoW: "Lamborghini EVO Spyder White 2023",
         macSpyder: "McLaren Artura Spyder Orange 2025",
         lamboUrusYellow: "Lamborghini Urus Yellow 2024",
         lamboUrusPurple: "Lamborghini Urus Purple 2024",
@@ -39,6 +40,9 @@ export const main = {
         ferrari296: "Ferrari 296 GTB Red",
         escaladeBlack: "Escalade Black 2024",
         escaladeWhite: "Escalade White 2024",
+        porsche911carrera: "Porsche 911 carrera",
+        rrBlue: "Rolls Royce Ghost Blue",
+        rrWhite: "Rolls Royce Ghost White",
         freeDelivery: "Free Delivery",
         freeService: "Free Service and Maintenance",
         contractTerms: "Contract Terms Apply",
@@ -111,7 +115,8 @@ export const main = {
         rangeRoverVogue: "رانج روفر فوج 2025",
         bentleyBentayga: "بنتلي بنتايجا S V8",
         // new
-        lamboEvo: "لامبورجيني إيفو سبايدر أبيض وأزرق 2023",
+        lamboEvo: "لامبورجيني إيفو سبايدر بلو 2023",
+        lamboEvoW: "لامبورجيني إيفو سبايدر وايت 2023",
         macSpyder: "مكلارين أرتورا سبايدر برتقالي 2025",
         lamboUrusYellow: "لامبورجيني أوروس الصفراء 2024",
         lamboUrusPurple: "لامبورغيني أوروس أرجوانية 2024",
@@ -120,6 +125,8 @@ export const main = {
         ferrari296: "فيراري 296 GTB أحمر",
         escaladeBlack: "إسكاليد بلاك 2024",
         escaladeWhite: "إسكاليد وايت 2024",
+        rrBlue: "رولز رويس جوست بلو",
+        rrWhite: "رولز رويس جوست وايت",
         freeDelivery: "التوصيل مجاني",
         freeService: "خدمة وصيانة مجانية",
         contractTerms: "تنطبق شروط العقد",
@@ -159,7 +166,8 @@ export const main = {
         copyrights: "© ٢٠٢٥. جميع الحقوق محفوظة لشركة كويك ليز لتأجير السيارات.",
         addressLineOne: "محل رقم 18، مبنى الراحة، مقابل فندق سيتي ماكس",
         addressLineTwo: "خلف مول الإمارات، البرشاء 1، دبي",
-        addressLineThree: "صندوق بريد: 88152 – دبي – الإمارات العربية المتحدة"
+        addressLineThree: "صندوق بريد: 88152 – دبي – الإمارات العربية المتحدة",
+        porsche911carrera: "بورشه 911 كاريرا",
     },
     ru: {
         luxuryCars: "Aвтомобили класса люкc",
@@ -192,7 +200,8 @@ export const main = {
         rangeRoverVogue: "Рендж Ровер Вог 2025",
         bentleyBentayga: "Бентли Бентайга S V8",
         // new
-        lamboEvo: "Lamborghini EVO Spyder Белый и Синий 2023",
+        lamboEvo: "Lamborghini EVO Spyder Синий 2023",
+        lamboEvoW: "Lamborghini EVO Spyder Белый 2023",
         macSpyder: "McLaren Artura Spyder Оранжевый 2025",
         lamboUrusYellow: "Lamborghini Urus Желтый 2024",
         lamboUrusPurple: "Lamborghini Urus Фиолетовый 2024",
@@ -201,6 +210,8 @@ export const main = {
         ferrari296: "Ferrari 296 GTB Красный",
         escaladeBlack: "Эскалейд Блэк 2024",
         escaladeWhite: "Эскалейд Белый 2024",
+        rrBlue: "Rolls Royce Ghost Blue",
+        rrWhite: "Rolls Royce Ghost Белый",
         freeDelivery: "Бесплатная доставка",
         freeService: "Бесплатное обслуживание и обслуживание",
         contractTerms: "Применяются условия контракта",
@@ -240,6 +251,7 @@ export const main = {
         copyrights: "© 2025. Авторские права Quick Lease Car Rentals. Все права защищены.",
         addressLineOne: "Магазин № 18, здание Al Raha, напротив отеля City Max Hotel,",
         addressLineTwo: "за торговым центром Mall Of Emirates, Al Barsha 1, Дубай",
-        addressLineThree: "Почтовый ящик: 88152 – Дубай – ОАЭ"
+        addressLineThree: "Почтовый ящик: 88152 – Дубай – ОАЭ",
+        porsche911carrera: "Порше 911 Каррера",
     },
 }

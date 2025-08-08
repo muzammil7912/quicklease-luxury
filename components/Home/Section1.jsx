@@ -54,7 +54,7 @@ const Section1 = () => {
 
 
         axios
-            .post("https://testqds.com/new_quicklease/api/enquiries/request_form", form)
+            .post("https://api.quicklease.ae/api/enquiries/request_form", form)
             .then((response) => {
                 console.log(response);
                 if (response.status === 200) {

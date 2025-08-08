@@ -63,6 +63,11 @@ export const lamboEvoTwo = require("../public/webImages/car_images/lambo_evo_2.j
 export const lamboEvoThree = require("../public/webImages/car_images/lambo_evo_3.webp")
 export const lamboEvoFour = require("../public/webImages/car_images/lambo_evo_4.webp")
 
+export const lamboEvoWOne = require("../public/webImages/car_images/lambo_white_1.jpeg")
+export const lamboEvoWTwo = require("../public/webImages/car_images/lambo_white_2.jpeg")
+export const lamboEvoWThree = require("../public/webImages/car_images/lambo_white_3.jpeg")
+export const lamboEvoWFour = require("../public/webImages/car_images/lambo_white_4.jpeg")
+
 export const macArturaOne = require("../public/webImages/car_images/mac_artura_1.jpg")
 export const macArturaTwo = require("../public/webImages/car_images/mac_artura_2.jpg")
 export const macArturaThree = require("../public/webImages/car_images/mac_artura_3.jpg")
@@ -93,3 +98,14 @@ export const escaladeThree = require("../public/webImages/car_images/escalade_3.
 export const escaladeFour = require("../public/webImages/car_images/escalade_4.webp")
 export const escaladeFive = require("../public/webImages/car_images/escalade_5.jpg")
 export const escaladeSix = require("../public/webImages/car_images/escalade_6.jpg")
+
+export const rrBlueOne = require("../public/webImages/car_images/rr_ghost_blue_1.webp")
+export const rrBlueTwo = require("../public/webImages/car_images/rr_ghost_blue_2.webp")
+export const rrBlueThree = require("../public/webImages/car_images/rr_ghost_blue_3.webp")
+export const rrBlueFour = require("../public/webImages/car_images/rr_ghost_blue_4.webp")
+
+export const rrWhiteOne = require("../public/webImages/car_images/rr_ghost_white_1.webp")
+export const rrWhiteTwo = require("../public/webImages/car_images/rr_ghost_white_2.webp")
+export const rrWhiteThree = require("../public/webImages/car_images/rr_ghost_white_3.webp")
+export const rrWhiteFour = require("../public/webImages/car_images/rr_ghost_blue_4.webp")
+export const porsche911One = require("../public/webImages/car_images/porsche-911/1.webp")
